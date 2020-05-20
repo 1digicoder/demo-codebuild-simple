@@ -3,7 +3,7 @@ version: 0.2
 phases:
   install:
     commands:
-      - echo running an install
+      - echo running an install of new software
   pre_build:
     commands:
       - echo running a pre_build
